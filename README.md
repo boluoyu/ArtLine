@@ -171,8 +171,8 @@ Mail me @ vijishmadhavan@gmail.com
 ## License
 
 All code in this repository is under the MIT license as specified by the LICENSE file.
-
-
+https://zhuanlan.zhihu.com/p/338382272
+不用GAN，照片生成简笔画，效果惊艳
 
 
 
