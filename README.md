@@ -168,11 +168,12 @@ Mail me @ vijishmadhavan@gmail.com
 
 - Thanks to (https://github.com/yiranran/APDrawingGAN) for the amazing dataset.
 
+https://zhuanlan.zhihu.com/p/338382272
+不用GAN，照片生成简笔画，效果惊艳
+
 ## License
 
 All code in this repository is under the MIT license as specified by the LICENSE file.
-https://zhuanlan.zhihu.com/p/338382272
-不用GAN，照片生成简笔画，效果惊艳
 
 
 
